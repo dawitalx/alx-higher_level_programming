@@ -1,6 +1,7 @@
 #!/usr/bin/python3
-"""Author: Soukaina Sadeq"""
+
 if __name__ == "__main__":
+    """Here, prints all names defined by hidden_4 module."""
     import hidden_4
 
     names = dir(hidden_4)
